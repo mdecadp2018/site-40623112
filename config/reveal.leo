@@ -46,7 +46,7 @@
 <v t="leo.20181004141406.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141436.1" a="E"><vh>week2</vh>
+<v t="leo.20181004141436.1"><vh>week2</vh>
 <v t="leo.20181004141436.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141436.3"><vh>內容</vh></v>
 </v>
@@ -54,7 +54,7 @@
 <v t="leo.20181004141436.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141437.1" a="E"><vh>week3</vh>
+<v t="leo.20181004141437.1"><vh>week3</vh>
 <v t="leo.20181004141437.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141437.3"><vh>內容</vh></v>
 </v>
@@ -62,7 +62,7 @@
 <v t="leo.20181004141437.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141439.1" a="E"><vh>week4</vh>
+<v t="leo.20181004141439.1"><vh>week4</vh>
 <v t="leo.20181004141439.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141439.3"><vh>內容</vh></v>
 </v>
@@ -362,73 +362,106 @@ make.start()
 </t>
 <t tx="leo.20181004141222.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181004141335.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181004141336.1">WEEK1</t>
-<t tx="leo.20181004141406.1">&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20181004141336.1"># WEEK1
+
+### 我是王柏翔</t>
+<t tx="leo.20181004141406.1">&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+@others
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
+</t>
 <t tx="leo.20181004141406.2"></t>
 <t tx="leo.20181004141436.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181004141436.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
+</t>
 <t tx="leo.20181004141436.3">WEEK2
 
-* 哭哭</t>
-<t tx="leo.20181004141436.4">&lt;section data-markdown&gt;
+* 哭哭
+</t>
+<t tx="leo.20181004141436.4">&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+@others
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
+</t>
 <t tx="leo.20181004141436.5"></t>
 <t tx="leo.20181004141437.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181004141437.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181004141437.3">WEEK3</t>
-<t tx="leo.20181004141437.4">&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20181004141437.3">WEEK3
+</t>
+<t tx="leo.20181004141437.4">&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+@others
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
+</t>
 <t tx="leo.20181004141437.5"></t>
 <t tx="leo.20181004141439.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181004141439.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181004141439.3">WEEK4</t>
-<t tx="leo.20181004141439.4">&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20181004141439.3">WEEK4
+</t>
+<t tx="leo.20181004141439.4">&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+@others
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
+</t>
 <t tx="leo.20181004141439.5"></t>
 </tnodes>
 </leo_file>
