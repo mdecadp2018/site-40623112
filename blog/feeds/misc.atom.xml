@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623112/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623112/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623112/blog/</id><updated>2018-09-21T11:00:00+08:00</updated><entry><title>2018 Fall CADP第二週</title><link href="https://mdecadp2018.github.io/site-40623112/blog/2018-Fall-Project-Blog-W2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623112</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623112/blog/2018-Fall-Project-Blog-W2.html</id><summary type="html">&lt;p&gt;第二週&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第二週&lt;/p&gt;
-</content><category term="2018Fall-W2"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623112/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623112/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623112/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623112/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623112/blog/</id><updated>2018-10-12T11:00:00+08:00</updated><entry><title>2018 Fall CADP第五週</title><link href="https://mdecadp2018.github.io/site-40623112/blog/2018-Fall-Project-Blog-W5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623112</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623112/blog/2018-Fall-Project-Blog-W5.html</id><summary type="html">&lt;p&gt;第五週～從 Onshapeweek1 課程到 Onshapeweek2
+</summary><content type="html">&lt;p&gt;第五週～從 Onshapeweek1 課程到 Onshapeweek2
+&lt;/p&gt;
+&lt;p&gt;第五週&lt;/p&gt;
+&lt;p&gt;上課內容：概要Onshape-week2學習要點
+一、簡介"設計意圖" (design intent)
+二、設定尺寸 (dimensions) 與約束 (constraints)
+三、自動推理 (automatic inferencing)
+四、繪製精確的零件 (accurate part)
+五、草圖繪製練習
+六、運用與建立平面 (planes)
+七、建立圓角 (fillets) 與倒角 (chamfers)
+八、使用多個 (multiple) 草圖區域 (sketch regions)
+九、基本零件
+十、繪製時鐘模型 - 用於設計意圖教學
+十一、各種簡單的幾何形狀 (geometric shapes) &lt;/p&gt;
+&lt;p&gt;自我評分：70&lt;/p&gt;</content><category term="2018Fall-W5"></category></entry><entry><title>2018 Fall CADP第四週</title><link href="https://mdecadp2018.github.io/site-40623112/blog/2018-Fall-Project-Blog-W4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623112</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623112/blog/2018-Fall-Project-Blog-W4.html</id><summary type="html">&lt;p&gt;第四週～Onshape w1 課程使用說明
+</summary><content type="html">&lt;p&gt;第四週～Onshape w1 課程使用說明
+&lt;/p&gt;
+&lt;p&gt;上課內容：簡要指導Onshape之基本操作，並以數簡易零件供我們練習，以利我們操作更順利流暢。&lt;/p&gt;
+&lt;p&gt;自我評分：70&lt;/p&gt;
+&lt;p&gt;上課心得:剛開始使用onshape覺得跟soliworks很像但是唯一不一樣的是全英文，雖然知道英文很重要但是還是沒設定目標。&lt;/p&gt;</content><category term="2018Fall-W4"></category></entry><entry><title>2018 Fall CADP第三週</title><link href="https://mdecadp2018.github.io/site-40623112/blog/2018-Fall-Project-Blog-W3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623112</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623112/blog/2018-Fall-Project-Blog-W3.html</id><summary type="html">&lt;p&gt;第三週~python程式和git基本操作練習&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第三週~python程式和git基本操作練習&lt;/p&gt;
+
+
+&lt;p&gt;上課內容：複習上學期GIT 基本操作，解析python 改版上的操作。&lt;/p&gt;
+&lt;p&gt;自我評分：70&lt;/p&gt;</content><category term="2018Fall-W3"></category></entry><entry><title>2018 Fall CADP第二週</title><link href="https://mdecadp2018.github.io/site-40623112/blog/2018-Fall-Project-Blog-W2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623112</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623112/blog/2018-Fall-Project-Blog-W2.html</id><summary type="html">&lt;p&gt;第二週~如何管理 CMSimfly 作業倉儲
+</summary><content type="html">&lt;p&gt;第二週~如何管理 CMSimfly 作業倉儲
+&lt;/p&gt;
+&lt;p&gt;上課內容：介紹ShareX如何取圖。管理作業倉儲的基本設定。錄影時的工具Zoomit。習得運用輔助程式，以方便呈現卻切內容。&lt;/p&gt;
+&lt;p&gt;自我評分：70&lt;/p&gt;</content><category term="2018Fall-W2"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623112/blog/2018-Fall-Project-Blog-w1.html" rel="alternate"></link><published>2018-09-14T10:00:00+08:00</published><updated>2018-09-14T10:00:00+08:00</updated><author><name>40623112</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623112/blog/2018-Fall-Project-Blog-w1.html</id><summary type="html">&lt;p&gt;適應週～領取個人作業&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;適應週～領取個人作業&lt;/p&gt;
+
+
+&lt;p&gt;第一週 &lt;/p&gt;
+&lt;p&gt;上課內容：&lt;/p&gt;
+&lt;p&gt;介紹本學期課程內容 &lt;/p&gt;
+&lt;p&gt;利用p37中的git建立個人的Github Pages網站&lt;/p&gt;
+&lt;p&gt;取2018fall 當對應參考&lt;/p&gt;
+&lt;p&gt;自我評分：75分&lt;/p&gt;
+&lt;p&gt;上課心得 :再次接觸到github我還是不太懂，不過這次上課有稍稍理解了一點。&lt;/p&gt;</content><category term="2018Fall-w1"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623112/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623112/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
