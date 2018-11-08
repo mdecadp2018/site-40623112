@@ -27,17 +27,6 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
 <v t="leo.20181004141222.1" a="E"><vh>week1-3</vh>
 <v t="leo.20181004141335.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141336.1"><vh>內容</vh></v>
@@ -46,27 +35,30 @@
 <v t="leo.20181109005934.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141436.1" a="E"><vh>week2</vh>
+<v t="leo.20181004141436.1"><vh>week4-6</vh>
 <v t="leo.20181004141436.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141436.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141437.1" a="E"><vh>week3</vh>
+<v t="leo.20181004141437.1"><vh>week7</vh>
 <v t="leo.20181004141437.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141437.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141439.1" a="E"><vh>week4</vh>
+<v t="leo.20181004141439.1"><vh>week8</vh>
 <v t="leo.20181004141439.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141439.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181108234303.1" a="E"><vh>week5</vh>
-<v t="leo.20181108234303.2" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181108234303.3"><vh>內容</vh></v>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20181108234303.4"><vh>分支(向下)</vh>
-<v t="leo.20181108234303.5"><vh>內容</vh></v>
+<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -397,9 +389,9 @@ make.start()
 
     &lt;/script&gt;
 </t>
-<t tx="leo.20181004141436.3">#WEEK2
+<t tx="leo.20181004141436.3">#WEEK4-6
 
-* 
+* 課程網址:http://mde.tw/cadp2018/content/index.html
 </t>
 <t tx="leo.20181004141437.1">&lt;section&gt;
 @others
@@ -416,7 +408,14 @@ make.start()
 
     &lt;/script&gt;
 </t>
-<t tx="leo.20181004141437.3">WEEK3
+<t tx="leo.20181004141437.3">#WEEK7上課內容
+如何利用Virtualbox安裝Ubuntu18.04.1伺服器
+
+如何在先前所建立的虛擬Ubuntu18.04上啟動https協定下的FossilSCM伺服器
+
+如何利用 Fossil SCM 建立區域網路中的分散式版次管理系統
+
+
 </t>
 <t tx="leo.20181004141439.1">&lt;section&gt;
 @others
@@ -433,33 +432,8 @@ make.start()
 
     &lt;/script&gt;
 </t>
-<t tx="leo.20181004141439.3">WEEK4
-</t>
-<t tx="leo.20181108234303.1">&lt;section&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181108234303.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-
-    &lt;/script&gt;
-</t>
-<t tx="leo.20181108234303.3">WEEK5
-</t>
-<t tx="leo.20181108234303.4">&lt;/section&gt;
-
-&lt;section data-markdown&gt;
-@others
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-</t>
-<t tx="leo.20181108234303.5"></t>
+<t tx="leo.20181004141439.3">#WEEK8
+*機電資整合設計專案流程所需的相關套件運用與技術</t>
 <t tx="leo.20181109005934.1">&lt;/section&gt;
 
 &lt;section data-markdown&gt;
