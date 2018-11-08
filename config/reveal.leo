@@ -35,17 +35,17 @@
 <v t="leo.20181109005934.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141436.1"><vh>week4-6</vh>
+<v t="leo.20181004141436.1" a="E"><vh>week4-6</vh>
 <v t="leo.20181004141436.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141436.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141437.1"><vh>week7</vh>
+<v t="leo.20181004141437.1" a="E"><vh>week7</vh>
 <v t="leo.20181004141437.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141437.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141439.1"><vh>week8</vh>
+<v t="leo.20181004141439.1" a="E"><vh>week8</vh>
 <v t="leo.20181004141439.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141439.3"><vh>內容</vh></v>
 </v>
@@ -409,11 +409,12 @@ make.start()
     &lt;/script&gt;
 </t>
 <t tx="leo.20181004141437.3">#WEEK7上課內容
-如何利用Virtualbox安裝Ubuntu18.04.1伺服器
 
-如何在先前所建立的虛擬Ubuntu18.04上啟動https協定下的FossilSCM伺服器
+1. 如何利用Virtualbox安裝Ubuntu18.04.1伺服器
 
-如何利用 Fossil SCM 建立區域網路中的分散式版次管理系統
+2 如何在先前所建立的虛擬Ubuntu18.04上啟動https協定下的FossilSCM伺服器
+
+3. 如何利用 Fossil SCM 建立區域網路中的分散式版次管理系統
 
 
 </t>
@@ -433,7 +434,8 @@ make.start()
     &lt;/script&gt;
 </t>
 <t tx="leo.20181004141439.3">#WEEK8
-*機電資整合設計專案流程所需的相關套件運用與技術</t>
+
+1.機電資整合設計專案流程所需的相關套件運用與技術</t>
 <t tx="leo.20181109005934.1">&lt;/section&gt;
 
 &lt;section data-markdown&gt;
