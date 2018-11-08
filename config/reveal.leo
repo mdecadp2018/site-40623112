@@ -464,9 +464,8 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20181109004950.3">#CMSIMFLY網站
 1. 啟動wsgi.py進入localhost登入並管理自己的靜態網站
 2. 按下edit去做編輯，編輯完後按save在按下generate_pag靜態
