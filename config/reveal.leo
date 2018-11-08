@@ -38,15 +38,18 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181004141222.1" a="E"><vh>week1</vh>
+<v t="leo.20181004141222.1" a="E"><vh>week1-3</vh>
 <v t="leo.20181004141335.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141336.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20181004141406.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141406.2"><vh>內容</vh></v>
 </v>
+<v t="leo.20181109000756.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109000756.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20181004141436.1"><vh>week2</vh>
+</v>
+<v t="leo.20181004141436.1" a="E"><vh>week2</vh>
 <v t="leo.20181004141436.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141436.3"><vh>內容</vh></v>
 </v>
@@ -54,7 +57,7 @@
 <v t="leo.20181004141436.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141437.1"><vh>week3</vh>
+<v t="leo.20181004141437.1" a="E"><vh>week3</vh>
 <v t="leo.20181004141437.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141437.3"><vh>內容</vh></v>
 </v>
@@ -62,12 +65,20 @@
 <v t="leo.20181004141437.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181004141439.1"><vh>week4</vh>
+<v t="leo.20181004141439.1" a="E"><vh>week4</vh>
 <v t="leo.20181004141439.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141439.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20181004141439.4" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141439.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108234303.1" a="E"><vh>week5</vh>
+<v t="leo.20181108234303.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108234303.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181108234303.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108234303.5"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -375,9 +386,14 @@ make.start()
 
     &lt;/script&gt;
 </t>
-<t tx="leo.20181004141336.1"># WEEK1
+<t tx="leo.20181004141336.1"># WEEK1-3
+1. 下載p37.7z,解壓縮到自己隨身碟
+2. 進入github 到https://classroom.github.com/a/fGqXU9kO 領取個人期中作業。
 
-### 我是王柏翔</t>
+
+
+
+</t>
 <t tx="leo.20181004141406.1">&lt;/section&gt;
 
 &lt;section data-markdown&gt;
@@ -385,7 +401,10 @@ make.start()
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 </t>
-<t tx="leo.20181004141406.2"></t>
+<t tx="leo.20181004141406.2">#CMSIMFLY網站
+1. 啟動wsgi.py進入localhost登入並管理自己的靜態網站
+2. 按下edit去做編輯，編輯完後按save在按下generate_pag靜態
+4. 接下來就先進入你現在所在的資料夾就可以用git status git add . git commit-m"名稱"去git push</t>
 <t tx="leo.20181004141436.1">&lt;section&gt;
 @others
     &lt;/script&gt;
@@ -401,9 +420,9 @@ make.start()
 
     &lt;/script&gt;
 </t>
-<t tx="leo.20181004141436.3">WEEK2
+<t tx="leo.20181004141436.3">#WEEK2
 
-* 哭哭
+* 
 </t>
 <t tx="leo.20181004141436.4">&lt;/section&gt;
 
@@ -463,5 +482,39 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 </t>
 <t tx="leo.20181004141439.5"></t>
+<t tx="leo.20181108234303.1">&lt;section&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108234303.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20181108234303.3">WEEK5
+</t>
+<t tx="leo.20181108234303.4">&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+@others
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+</t>
+<t tx="leo.20181108234303.5"></t>
+<t tx="leo.20181109000756.1">&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+@others
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+</t>
+<t tx="leo.20181109000756.2">
+</t>
 </tnodes>
 </leo_file>
