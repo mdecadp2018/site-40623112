@@ -42,8 +42,8 @@
 <v t="leo.20181004141335.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141336.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20181109004950.1" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181109004950.3"><vh>內容</vh></v>
+<v t="leo.20181109005934.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109005934.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20181004141436.1" a="E"><vh>week2</vh>
@@ -65,7 +65,7 @@
 <v t="leo.20181108234303.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181108234303.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181108234303.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181108234303.4"><vh>分支(向下)</vh>
 <v t="leo.20181108234303.5"><vh>內容</vh></v>
 </v>
 </v>
@@ -460,21 +460,17 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 </t>
 <t tx="leo.20181108234303.5"></t>
-<t tx="leo.20181109004950.1">&lt;section data-markdown&gt;
+<t tx="leo.20181109005934.1">&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+@others
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20181109004950.3">#CMSIMFLY網站
+</t>
+<t tx="leo.20181109005934.2">#CMSIMFLY網站
 1. 啟動wsgi.py進入localhost登入並管理自己的靜態網站
 2. 按下edit去做編輯，編輯完後按save在按下generate_pag靜態
 4. 接下來就先進入你現在所在的資料夾就可以用git status git add . git commit-m"名稱"去git push
-
-
-
-
-
 </t>
 </tnodes>
 </leo_file>
