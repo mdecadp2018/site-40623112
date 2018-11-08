@@ -41,31 +41,24 @@
 <v t="leo.20181004141222.1" a="E"><vh>week1-3</vh>
 <v t="leo.20181004141335.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141336.1"><vh>內容</vh></v>
-<v t="leo.20181109004537.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20181109004950.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181109004950.3"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20181004141436.1" a="E"><vh>week2</vh>
 <v t="leo.20181004141436.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141436.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181004141436.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181004141436.5"><vh>內容</vh></v>
-</v>
 </v>
 <v t="leo.20181004141437.1" a="E"><vh>week3</vh>
 <v t="leo.20181004141437.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141437.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181004141437.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181004141437.5"><vh>內容</vh></v>
-</v>
 </v>
 <v t="leo.20181004141439.1" a="E"><vh>week4</vh>
 <v t="leo.20181004141439.2" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004141439.3"><vh>內容</vh></v>
-</v>
-<v t="leo.20181004141439.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181004141439.5"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20181108234303.1" a="E"><vh>week5</vh>
@@ -408,14 +401,6 @@ make.start()
 
 * 
 </t>
-<t tx="leo.20181004141436.4">&lt;/section&gt;
-
-&lt;section data-markdown&gt;
-@others
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-</t>
-<t tx="leo.20181004141436.5"></t>
 <t tx="leo.20181004141437.1">&lt;section&gt;
 @others
     &lt;/script&gt;
@@ -433,14 +418,6 @@ make.start()
 </t>
 <t tx="leo.20181004141437.3">WEEK3
 </t>
-<t tx="leo.20181004141437.4">&lt;/section&gt;
-
-&lt;section data-markdown&gt;
-@others
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-</t>
-<t tx="leo.20181004141437.5"></t>
 <t tx="leo.20181004141439.1">&lt;section&gt;
 @others
     &lt;/script&gt;
@@ -458,14 +435,6 @@ make.start()
 </t>
 <t tx="leo.20181004141439.3">WEEK4
 </t>
-<t tx="leo.20181004141439.4">&lt;/section&gt;
-
-&lt;section data-markdown&gt;
-@others
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-</t>
-<t tx="leo.20181004141439.5"></t>
 <t tx="leo.20181108234303.1">&lt;section&gt;
 @others
     &lt;/script&gt;
@@ -491,7 +460,14 @@ make.start()
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 </t>
 <t tx="leo.20181108234303.5"></t>
-<t tx="leo.20181109004537.1">#CMSIMFLY網站
+<t tx="leo.20181109004950.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20181109004950.3">#CMSIMFLY網站
 1. 啟動wsgi.py進入localhost登入並管理自己的靜態網站
 2. 按下edit去做編輯，編輯完後按save在按下generate_pag靜態
 4. 接下來就先進入你現在所在的資料夾就可以用git status git add . git commit-m"名稱"去git push
